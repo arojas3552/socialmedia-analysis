@@ -13,3 +13,5 @@ Open Database License
 Cleaned and processed with SQL. Script can be found in repository.
 
 Visualized with Tableau. Link and images in repository.
+
+Script with notes on explanation and details. Also in repository.
