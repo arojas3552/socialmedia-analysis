@@ -9,9 +9,9 @@ Open Database License
   
   “This dataset was originally collected for a data science and machine learning project that aimed at investigating the potential correlation between the amount of time an individual   spends on social media and the impact it has on their mental health…This project was completed as part of a Statistics course at a university…”
 
-#### Details
-Cleaned and processed with SQL. Script can be found in repository.
+#### Repo details and contents
+SQL script for data cleaning and processing. 
 
-Visualized with Tableau. Link and images in repository.
+Tableau link and images for data visualization.
 
-Script with notes on explanation and details. Also in repository.
+Script with notes on explanation and details.
